@@ -6,3 +6,12 @@
 ###### Header 6
 Creating headers of different levels
 ![Image of Jupiter](https://github.com/GMNovember/skills-communicate-using-markdown/blob/main/planet-jupiter.png)
+
+```
+$ git init
+Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+```
+
+``` javascript
+var myVar = "Hello, world!";
+```
