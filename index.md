@@ -5,3 +5,4 @@
 ##### Header 5
 ###### Header 6
 Creating headers of different levels
+![Image of Jupiter](https://github.com/GMNovember/skills-communicate-using-markdown/blob/main/planet-jupiter.png)
